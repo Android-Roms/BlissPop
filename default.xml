@@ -10,15 +10,16 @@
           fetch=".."
           review="review.cyanogenmod.org" />
 
+  <remote name="TeamBliss-LP"
+          fetch="https://github.com/TeamBliss-LP/"
+          review="review.blissroms.com" />
+
   <remote name="private"
           fetch="ssh://git@github.com" />
            
   <remote name="cm"
           fetch="https://github.com/CyanogenMod/" />
           
-  <remote name="TeamBliss-LP"
-          fetch="https://github.com/TeamBliss-LP/" />
-
   <remote name="TeamBliss-Devices"
           fetch="https://github.com/TeamBliss-Devices/" />
           
@@ -595,7 +596,6 @@
   <project path="packages/apps/BlissPapers" name="TeamBliss-LP/android_packages_apps_BlissPapers" revision="lp5.0" />
   <project path="packages/apps/DeviceControl" name="TeamBliss-LP/android_packages_apps_DeviceControl" revision="lp5.0" />
   <project path="packages/apps/OmniSwitch" name="TeamBliss-LP/android_packages_apps_OmniSwitch" revision="lp5.0" />
-  <project path="packages/apps/ABCamera" name="TeamBliss-LP/android_packages_apps_ABCamera" revision="lp5.0" />  
   <project path="packages/apps/MonthCalendarWidget" name="omnirom/android_packages_apps_MonthCalendarWidget" revision="android-5.0" />
   <project path="packages/apps/ScreenRecorder" name="TeamBliss-LP/android_packages_apps_ScreenRecorder" revision="lp5.0" />       
  
