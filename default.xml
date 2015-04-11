@@ -598,7 +598,8 @@
   <project path="packages/apps/OmniSwitch" name="TeamBliss-LP/android_packages_apps_OmniSwitch" revision="lp5.0" />
   <project path="packages/apps/MonthCalendarWidget" name="omnirom/android_packages_apps_MonthCalendarWidget" revision="android-5.0" />
   <project path="packages/apps/ScreenRecorder" name="TeamBliss-LP/android_packages_apps_ScreenRecorder" revision="lp5.0" />       
- 
+  <project path="external/AndroidSwipeLayout" name="NamelessRom/android_external_AndroidSwipeLayout" revision="n-2.0" />
+
   <!--Vendor Repos-->
   <project path="vendor/bliss" name="TeamBliss-LP/android_vendor_bliss" remote="github" revision="lp5.0" />    
   <project path="vendor/lge" name="TeamBliss-Devices/proprietary_vendor_lge" remote="github" revision="cm-12.0" />
